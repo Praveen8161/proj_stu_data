@@ -1,0 +1,36 @@
+[
+    {
+        "id":"1",
+        "name":"praveen",
+        "batch":"B51WD",
+        "age":"24"
+    },
+
+    {
+        "id":"2",
+        "name":"Balaji",
+        "batch":"B51WD",
+        "age":"23"
+    },
+
+    {
+        "id":"3",
+        "name":"Arjun",
+        "batch":"B51WD",
+        "age":"22"
+    },
+
+    {
+        "id":"4",
+        "name":"Annanthavel",
+        "batch":"B51WD",
+        "age":"26"
+    },
+
+    {
+        "id":"5",
+        "name":"Karthik",
+        "batch":"B51WD",
+        "age":"27"
+    }
+]
